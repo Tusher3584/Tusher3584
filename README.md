@@ -44,5 +44,5 @@ Feel free to connect or collaborate!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifatTusher&show_icons=true&hide=stars&count_private=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusher3584&show_icons=true&hide=stars&count_private=true&theme=default" alt="GitHub Stats" />
 </p>
