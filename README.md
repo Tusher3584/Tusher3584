@@ -20,7 +20,7 @@ I'm currently exploring every branch of software engineering until I find my fav
   <big><b>Database:</b></big>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" width="70"/> 
 </pre>
-<pre title="Docker, git, Selenium">
+<pre title="Docker, git, Selenium, nginx">
   <big><b>Others:</b></big>
   <img src="https://skillicons.dev/icons?i=docker,git,selenium,nginx" width="140"/> 
 </pre>
