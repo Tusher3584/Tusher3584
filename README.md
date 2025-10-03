@@ -4,7 +4,7 @@
 </pre>
 ---
 **`Undergrad Software Engineering Student`**<br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhuNDIzcHVucW14ZDRrc204a281cWw3NGx3ZzQ1Y3pyZjB3bnRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Logo" width="250" height="150" style="float: right;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhuNDIzcHVucW14ZDRrc204a281cWw3NGx3ZzQ1Y3pyZjB3bnRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Logo" width="250" height="150" style="float: right;" align="right">
 I'm currently exploring every branch of software engineering until I find my favorite one. Made some full stack projects, now looking forward to machine learning. Also interested in software security and low level system programming. I solve problems regularly on many online judges, mainly in Project Euler, Leetcode, edabit.
 <br><br>
 <h2>Tech Stacks</h2>
